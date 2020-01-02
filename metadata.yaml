@@ -1,0 +1,24 @@
+_repo: Technical-School-Sioux-Falls-Army-Air-Field_61030
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2019-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Technical School, Sioux Falls Army Air Field
+url: http://www.gutenberg.org/ebooks/61030
